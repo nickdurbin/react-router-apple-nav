@@ -15,9 +15,8 @@ const TopNav = styled.div`
   display: flex;
   justify-content: space-between;
   align-items: center;
-  width: 60%;
+  width: 62%;
   color: #fff;
-  height: 5vh;
   margin: 0 auto;
 
   :active {
